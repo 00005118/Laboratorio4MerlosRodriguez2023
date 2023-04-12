@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Labo04MerlosRodriguez</string>
+    <string name="title_text_view">Rellena la siguiente informacion</string>
+    <string name="hint_name">Write name</string>
+    <string name="hint_gmail">Write gmail</string>
+    <string name="hint_phone_number">Write phone number</string>
+    <string name="title_share_text_view">Confima tu infomacion</string>
+    <string name="text_share">Share</string>
+</resources>
