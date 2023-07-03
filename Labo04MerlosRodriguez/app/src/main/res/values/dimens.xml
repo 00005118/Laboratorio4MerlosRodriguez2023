@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="grap_content">16dp</dimen>
-    <dimen name="big_content">64dp</dimen>
-    <dimen name="very_big_content">120dp</dimen>
-</resources>
